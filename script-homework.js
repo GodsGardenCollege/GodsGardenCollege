@@ -7,6 +7,7 @@ const users = {
   "Victor Abel": { password: "Vic@869", role: "student", class: "JSS2" },
 
   "Jude Emmanuella Chioma": { password: "Em@184", role: "student", class: "JSS3" },
+  "Esther Okonkwo": { password: "024", role: "student", class: "JSS3" },
 
   "Ginika Maryann": { password: "Gin@34", role: "student", class: "SS1" },
 
@@ -1032,6 +1033,7 @@ function renderAdminResults() {
     container.innerHTML = "<p>No results recorded yet.</p>";
   }
 }
+
 
 
 
